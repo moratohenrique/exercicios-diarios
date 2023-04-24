@@ -1,2 +1,1 @@
 # Trybe-Projetos
-Projetos doispontozero
